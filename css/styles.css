@@ -17,8 +17,21 @@
   font-family: "Poppins", sans-serif;
 }
 
+html {
+  font-size: 62.5%;
+}
+
 body {
   min-height: 100vh;
+  font-size: 1.6rem;
   background-color: var(--white);
   color: var(--primary);
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
 }
