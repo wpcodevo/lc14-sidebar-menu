@@ -4,7 +4,8 @@
 /* Basic Reset */
 :root {
   --white: #fff;
-  --black: #222;
+  --primary: #000033;
+  --pink: #ff0066;
 }
 
 *,
@@ -19,5 +20,5 @@
 body {
   min-height: 100vh;
   background-color: var(--white);
-  color: var(--black);
+  color: var(--primary);
 }
